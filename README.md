@@ -1,2 +1,1 @@
-# jenkins-practice
-jenkins-practice for learning
+practice-1
